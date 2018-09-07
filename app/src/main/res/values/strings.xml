@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoSignInGoogle</string>
+    <string name="server_client_id">349458121889-2l93kjg7k8g80hqac54u3st6qikl5tik.apps.googleusercontent.com</string>
+</resources>
